@@ -1,0 +1,41 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/addCgi/addCgi",
+    "pages/bookshelf/bookshelf",
+    "pages/coment/coment",
+    "pages/me/me"
+  ],
+  "window": {
+    "backgroundColor": "#FFFFFF",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#F6F6F6",
+    "navigationBarTitleText": "我的书架",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#515151",
+    "selectedColor": "#FF6161",
+    "borderStyle": "white",
+    "list": [
+      {
+        "selectedIconPath": "img/bookshelf_red.png",
+        "iconPath": "img/bookshelf_black.png",
+        "pagePath": "pages/index/index",
+        "text": "书架"
+      },
+      {
+        "selectedIconPath": "img/coment_red.png",
+        "iconPath": "img/coment_black.png",
+        "pagePath": "pages/coment/coment",
+        "text": "评论"
+      },
+      {
+        "selectedIconPath": "img/me_red.png",
+        "iconPath": "img/me_black.png",
+        "pagePath": "pages/me/me",
+        "text": "我的"
+      }
+    ]
+  }
+}

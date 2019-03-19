@@ -1,0 +1,34 @@
+<!--client/pages/index/index.wxml-->
+<view class='box'>
+  <view class='left'><image src='book.png'                                  mode='widthFix'></image></view> 
+  <view class='right'>
+    <view class='t1'>计算机网络简明教程</view>
+    <view class='t2'>谢希仁</view>
+    <view class='t2'>电子工业出版社</view>
+    <view class='t3'>浏览：2604</view>
+  </view>
+</view>
+
+<view class='empty'></view>
+
+<view class='box'>
+  <view class='left'><image src='book.png'                                  mode='widthFix'></image></view> 
+  <view class='right'>
+    <view class='t1'>计算机网络简明教程</view>
+    <view class='t2'>谢希仁</view>
+    <view class='t2'>电子工业出版社</view>
+    <view class='t3'>浏览：2604</view>
+  </view>
+</view>
+
+<view class='empty'></view>
+
+<view class='box'>
+  <view class='left'><image src='book.png'                                  mode='widthFix'></image></view> 
+  <view class='right'>
+    <view class='t1'>计算机网络简明教程</view>
+    <view class='t2'>谢希仁</view>
+    <view class='t2'>电子工业出版社</view>
+    <view class='t3'>浏览：2604</view>
+  </view>
+</view>
